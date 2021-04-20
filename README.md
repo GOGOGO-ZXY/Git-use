@@ -7,6 +7,8 @@
 
 ~~somedetials~~
 
+[git的工作过程](work.md)
+
 >>Git's simple commands
 
 
@@ -40,6 +42,7 @@
 ```
 	git remote 	远程仓库操作
 ```
+
 
 ```
         git fetch 	从远程获取代码库
