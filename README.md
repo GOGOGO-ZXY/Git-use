@@ -1,5 +1,20 @@
-# Git-use
+##git-use
+####git
 
---------------------------------------------------------------------
-##**Welcome to  this guid!**
-The following guide is mainly about the simple and practical use of GIT
+*git*
+
+**black**
+
+~~somedetials~~
+
+>>Git's simple commands
+
+
+- 1 $ git init
+  
+- 2 $ git add
+
+- 3 $ git commit 
+
+[详细介绍](https://www.runoob.com/git/git-basic-operations.html)
+
