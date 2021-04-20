@@ -6,4 +6,6 @@
 - 4 在提交前查看修改。
 - 5 提交修改。
 - 6 在修改完成后，如果发现错误，可以撤回提交并再次修改并提交.
-- 
+
+![avatar](https://github.com/GOGOGO-ZXY/Git-use/blob/main/git-process.png)
+
