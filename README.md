@@ -3,10 +3,17 @@
 
 *git*
 
-**black**
+**git is very important**
 
 ~~somedetials~~
 
+[part1](#jump1)
+
+[part2](#jump2)
+
+[part3](#jump3)
+
+### <span id="jump1">part1</span>
 [git的工作过程](work.md)
 
 >>Git's simple commands
@@ -21,6 +28,7 @@
 [详细介绍](https://www.runoob.com/git/git-basic-operations.html)
 
 ![avatar](https://github.com/GOGOGO-ZXY/Git-use/blob/main/git-command.jpg)
+### <span id="jump2">part2</span>
 
 ```
 	git init 	初始化仓库
@@ -48,3 +56,4 @@
         git fetch 	从远程获取代码库
 ```
 
+### <span id="jump3">part3</span>
