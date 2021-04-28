@@ -9,3 +9,5 @@
 
 ![avatar](https://github.com/GOGOGO-ZXY/Git-use/blob/main/git-process.png)
 
+[git-use](readme.md)
+
